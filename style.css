@@ -20,4 +20,5 @@ html{
 
 h2{
     color: bisque;
+    cursor: pointer;
 }
